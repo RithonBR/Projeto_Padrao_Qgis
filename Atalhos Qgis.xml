@@ -1,0 +1,417 @@
+<!DOCTYPE shortcuts>
+<qgsshortcuts version="1.1" locale="pt_BR">
+    <action shortcut="" name="Personalizar Projeções..." setting="/shortcuts/mActionCustomProjection"/>
+    <action shortcut="" name="Georreferenciador…" setting="/shortcuts/mActionShowGeoreferencer"/>
+    <action shortcut="" name="Animate Zoom and Pan" setting="/shortcuts/Animate Zoom and Pan"/>
+    <action shortcut="" name="Colar camada/grupo" setting="/shortcuts/mActionPasteLayer"/>
+    <action shortcut="Ctrl+Shift+M" name="Linha" setting="/shortcuts/mActionMeasure"/>
+    <action shortcut="" name="Aspecto…" setting="/shortcuts/mProcessingUserMenu_gdal:aspect"/>
+    <action shortcut="" name="Ferramenta Vértice (Todas as Camadas)" setting="/shortcuts/mActionVertexTool"/>
+    <action shortcut="" name="Sombreamento…" setting="/shortcuts/mProcessingUserMenu_gdal:hillshade"/>
+    <action shortcut="" name="RGB para PCT…" setting="/shortcuts/mProcessingUserMenu_gdal:rgbtopct"/>
+    <action shortcut="" name="Buffer…" setting="/shortcuts/mProcessingUserMenu_native:buffer"/>
+    <action shortcut="" name="Mostrar Camadas Privadas" setting="/shortcuts/Mostrar Camadas Privadas"/>
+    <action shortcut="" name="Calculadora Raster..." setting="/shortcuts/mActionShowRasterCalculator"/>
+    <action shortcut="" name="Multipartes para partes simples…" setting="/shortcuts/mProcessingUserMenu_native:multiparttosingleparts"/>
+    <action shortcut="" name="Hub Lines / Distance" setting="/shortcuts/Hub Lines / Distance"/>
+    <action shortcut="" name="dzetsaka settings" setting="/shortcuts/dzetsaka settings"/>
+    <action shortcut="" name="Nova Camada Vetorial..." setting="/shortcuts/mActionPasteAsNewVector"/>
+    <action shortcut="" name="Copy Extents to Clipboard" setting="/shortcuts/Copy Extents to Clipboard"/>
+    <action shortcut="" name="Criar Anotação de texto no ponto" setting="/shortcuts/mActionAnotaçãodetextonoponto"/>
+    <action shortcut="" name="Próxima visualização" setting="/shortcuts/mActionZoomNext"/>
+    <action shortcut="" name="Preto próximo…" setting="/shortcuts/mProcessingUserMenu_gdal:nearblack"/>
+    <action shortcut="" name="Extensão da tela..." setting="/shortcuts/mActionDecorationLayoutExtent"/>
+    <action shortcut="" name="Recortar…" setting="/shortcuts/mProcessingUserMenu_native:clip"/>
+    <action shortcut="" name="Colar feições" setting="/shortcuts/mActionPasteFeatures"/>
+    <action shortcut="" name="Rotacionar Feição(s)" setting="/shortcuts/mActionRotateFeature"/>
+    <action shortcut="F7" name="Estilização de camadas" setting="/shortcuts/Estilização de camadas"/>
+    <action shortcut="" name="Doe para o QGIS" setting="/shortcuts/mActionDonate"/>
+    <action shortcut="" name="Anotação SVG" setting="/shortcuts/mActionSvgAnnotation"/>
+    <action shortcut="" name="Adicionar/Editar Camada Virtual..." setting="/shortcuts/mActionAddVirtualLayer"/>
+    <action shortcut="" name="Fechar tudo" setting="/shortcuts/Fechar tudo"/>
+    <action shortcut="" name="Gerenciador de Layout..." setting="/shortcuts/mActionShowLayoutManager"/>
+    <action shortcut="" name="Rotacionar símbolos de pontos" setting="/shortcuts/mActionRotatePointSymbols"/>
+    <action shortcut="" name="Gerenciador de Estilos..." setting="/shortcuts/mActionStyleManager"/>
+    <action shortcut="" name="Linhas para polígonos…" setting="/shortcuts/mProcessingUserMenu_qgis:linestopolygons"/>
+    <action shortcut="" name="Reportar um problema" setting="/shortcuts/mActionReportaBug"/>
+    <action shortcut="" name="Colar Estilo" setting="/shortcuts/mActionPasteStyle"/>
+    <action shortcut="" name="Help" setting="/shortcuts/latLonToolsHelp"/>
+    <action shortcut="" name="Abrir Calculadora de Campo..." setting="/shortcuts/mActionOpenFieldCalc"/>
+    <action shortcut="" name="Fechar" setting="/shortcuts/mActionCloseProject"/>
+    <action shortcut="" name="PointConnector" setting="/shortcuts/PointConnector"/>
+    <action shortcut="Ctrl+M" name="Nova visualização de mapa" setting="/shortcuts/mActionNewMapCanvas"/>
+    <action shortcut="" name="Batch save of vector layers" setting="/shortcuts/Batch save of vector layers"/>
+    <action shortcut="" name="Text to Float" setting="/shortcuts/Text to Float"/>
+    <action shortcut="" name="Definir o SRC do projeto a partir da camada" setting="/shortcuts/mActionSetProjectCRSFromLayer"/>
+    <action shortcut="Ctrl+Shift+Tab" name="Alternar apenas o mapa" setting="/shortcuts/mActionToggleMapOnly"/>
+    <action shortcut="" name="User Guide" setting="/shortcuts/User Guide"/>
+    <action shortcut="" name="Delete Duplicate Geometries" setting="/shortcuts/Delete Duplicate Geometries"/>
+    <action shortcut="" name="Grade (Inverso da distância à potência)…" setting="/shortcuts/mProcessingUserMenu_gdal:gridinversedistance"/>
+    <action shortcut="" name="MetaSearch" setting="/shortcuts/MetaSearch"/>
+    <action shortcut="" name="Salvar Como…" setting="/shortcuts/mActionLayerSaveAs"/>
+    <action shortcut="" name="Sort" setting="/shortcuts/Sort"/>
+    <action shortcut="" name="Digitalizar com segmento" setting="/shortcuts/mActionDigitizeWithSegment"/>
+    <action shortcut="Ctrl+O" name="Abrir…" setting="/shortcuts/mActionOpenProject"/>
+    <action shortcut="" name="Incorporar Camadas e Grupos..." setting="/shortcuts/mActionEmbedLayers"/>
+    <action shortcut="R" name="Vetorização Contínua" setting="/shortcuts/mActionStreamDigitize"/>
+    <action shortcut="" name="Criar grade…" setting="/shortcuts/mProcessingUserMenu_native:creategrid"/>
+    <action shortcut="" name="Diferença simétrica…" setting="/shortcuts/mProcessingUserMenu_native:symmetricaldifference"/>
+    <action shortcut="Ctrl+Shift+R" name="Adicionar Camada Raster..." setting="/shortcuts/mActionAddRasterLayer"/>
+    <action shortcut="Shift+F6" name="Abrir Tabela de Atributos (Feições Selecionadas)" setting="/shortcuts/mActionOpenTableSelected"/>
+    <action shortcut="Ctrl+H" name="Página do QGIS" setting="/shortcuts/mActionQgisHomePage"/>
+    <action shortcut="" name="Preencher sem dados…" setting="/shortcuts/mProcessingUserMenu_gdal:fillnodata"/>
+    <action shortcut="" name="Novo projeto em branco" setting="/shortcuts/mActionNewBlankProject"/>
+    <action shortcut="" name="Mostrar Dicas do Mapa" setting="/shortcuts/mActionMapTips"/>
+    <action shortcut="" name="Criar Anotação da linha" setting="/shortcuts/mActionAnotaçãodalinha"/>
+    <action shortcut="" name="Camada Propriedades..." setting="/shortcuts/mActionLayerProperties"/>
+    <action shortcut="" name="Aumentar o Brilho" setting="/shortcuts/mActionIncreaseBrightness"/>
+    <action shortcut="Ctrl+Shift+H" name="Ocultar Todas as Camadas" setting="/shortcuts/mActionHideAllLayers"/>
+    <action shortcut="-" name="Get JSON" setting="/shortcuts/Get JSON"/>
+    <action shortcut="" name="Malha..." setting="/shortcuts/mActionDecorationGrid"/>
+    <action shortcut="" name="Google Maps KML Export" setting="/shortcuts/Google Maps KML Export"/>
+    <action shortcut="" name="Mostrar etiquetas não colocadas" setting="/shortcuts/mActionShowUnplacedLabels"/>
+    <action shortcut="" name="Importar XYZ" setting="/shortcuts/ImportXYZ"/>
+    <action shortcut="Ctrl+M" name="mActionCatchForCustomization" setting="/shortcuts/actionActionCatchForCustomization"/>
+    <action shortcut="" name="Cancelar para a(s) camada(s) selecionada(s)" setting="/shortcuts/mActionCancelEdits"/>
+    <action shortcut="F11" name="Mudar para o Modo de Tela Cheia" setting="/shortcuts/mActionToggleFullScreen"/>
+    <action shortcut="" name="Adicionar grupo" setting="/shortcuts/Adicionar grupo"/>
+    <action shortcut="" name="Selecione à distância" setting="/shortcuts/mProcessingAlg_native:selectwithindistance"/>
+    <action shortcut="" name="Adicionar Camada XYZ…" setting="/shortcuts/mActionAddXyzLayer"/>
+    <action shortcut="" name="Ocultar camadas não selecionadas" setting="/shortcuts/mActionHideDeselectedLayers"/>
+    <action shortcut="" name="Create Buffers" setting="/shortcuts/Create Buffers"/>
+    <action shortcut="" name="Reverter para a(s) camada(s) selecionada(s)" setting="/shortcuts/mActionRollbackEdits"/>
+    <action shortcut="" name="Pontos aleatórios nas bordas da camada…" setting="/shortcuts/mProcessingUserMenu_qgis:randompointsinlayerbounds"/>
+    <action shortcut="Ctrl+P" name="Novo layout de Impressão..." setting="/shortcuts/mActionNewPrintLayout"/>
+    <action shortcut="" name="Alinhar rasters…" setting="/shortcuts/mProcessingUserMenu_native:alignrasters"/>
+    <action shortcut="1" name="Quebrar Feições" setting="/shortcuts/mActionSplitFeatures"/>
+    <action shortcut="Ctrl+Shift+I" name="Identificar feições" setting="/shortcuts/mActionIdentify"/>
+    <action shortcut="" name="Modificar atributos de feições selecionadas" setting="/shortcuts/mActionMultiEditAttributes"/>
+    <action shortcut="" name="Converter vetor para raster (rasterizar)…" setting="/shortcuts/mProcessingUserMenu_gdal:rasterize"/>
+    <action shortcut="" name="Mostrar na visão geral" setting="/shortcuts/mActionAddToOverview"/>
+    <action shortcut="Ctrl+F3" name="Selecionar Feições pela Expressão..." setting="/shortcuts/mActionSelectByExpression"/>
+    <action shortcut="" name="Raster para vetor (poligonizar)…" setting="/shortcuts/mProcessingUserMenu_gdal:polygonize"/>
+    <action shortcut="" name="Edição Topológica" setting="/shortcuts/TopologicalEditingAction"/>
+    <action shortcut="" name="Opções do diagrama" setting="/shortcuts/mActionDiagramProperties"/>
+    <action shortcut="Ctrl+Alt+M" name="Nova Vista do Mapa 3D." setting="/shortcuts/mActionNew3DMapCanvas"/>
+    <action shortcut="Ctrl+D" name="Remover camada/grupo" setting="/shortcuts/mActionRemoveLayer"/>
+    <action shortcut="" name="Barra de Escala..." setting="/shortcuts/mActionDecorationScaleBar"/>
+    <action shortcut="" name="Edições atuais" setting="/shortcuts/mActionAllEdits"/>
+    <action shortcut="" name="Mostrar tudo na visão geral" setting="/shortcuts/mActionAddAllToOverview"/>
+    <action shortcut="" name="Pontos aleatórios na extensão…" setting="/shortcuts/mProcessingUserMenu_native:randompointsinextent"/>
+    <action shortcut="" name="Feições através de traço livre" setting="/shortcuts/mActionSelectFreehand"/>
+    <action shortcut="" name="Voronoi polygons…" setting="/shortcuts/mProcessingUserMenu_native:voronoipolygons"/>
+    <action shortcut="" name="Criar Anotação de texto ao longo da linha" setting="/shortcuts/mActionAnotaçãodetextoaolongodalinha"/>
+    <action shortcut="" name="Set SlippyMap scales" setting="/shortcuts/Set SlippyMap scales"/>
+    <action shortcut="" name="Set Project" setting="/shortcuts/Set Project"/>
+    <action shortcut="Ctrl+Alt+G" name="Model Designer…" setting="/shortcuts/modelerAction"/>
+    <action shortcut="" name="Análise de vizinhos mais próximos…" setting="/shortcuts/mProcessingUserMenu_native:nearestneighbouranalysis"/>
+    <action shortcut="" name="Membros de Suporte do QGIS" setting="/shortcuts/mActionSponsors"/>
+    <action shortcut="" name="Medir azimute" setting="/shortcuts/mActionMeasureBearing"/>
+    <action shortcut="" name="Extrair projeção…" setting="/shortcuts/mProcessingUserMenu_gdal:extractprojection"/>
+    <action shortcut="" name="Nova camada SpatialLite..." setting="/shortcuts/mActionNewSpatiaLiteLayer"/>
+    <action shortcut="Ctrl+Shift+W" name="Adicionar Camada WMS/WMTS..." setting="/shortcuts/mActionAddWmsLayer"/>
+    <action shortcut="" name="Triangulação de Delaunay…" setting="/shortcuts/mProcessingUserMenu_native:delaunaytriangulation"/>
+    <action shortcut="" name="Imagem..." setting="/shortcuts/mActionDecorationImage"/>
+    <action shortcut="" name="Animate Lines" setting="/shortcuts/Animate Lines"/>
+    <action shortcut="" name="Get EWKT" setting="/shortcuts/Get EWKT"/>
+    <action shortcut="" name="Copiar Estilo" setting="/shortcuts/mActionCopyStyle"/>
+    <action shortcut="Ctrl+Alt+-" name="Afastar" setting="/shortcuts/mActionZoomOut"/>
+    <action shortcut="" name="Diferença…" setting="/shortcuts/mProcessingUserMenu_native:difference"/>
+    <action shortcut="" name="Extrair a extensão da camada…" setting="/shortcuts/mProcessingUserMenu_native:polygonfromlayerextent"/>
+    <action shortcut="" name="Adicionar Camada Mosaico Vetorial..." setting="/shortcuts/mActionAddVectorTileLayer"/>
+    <action shortcut="" name="Gerenciar e Instalar Complementos..." setting="/shortcuts/mActionManagePlugins"/>
+    <action shortcut="Ctrl+F6" name="Abrir Tabela de Atributos (Feições Visíveis)" setting="/shortcuts/mActionOpenTableVisible"/>
+    <action shortcut="" name="Gerenciador de BD..." setting="/shortcuts/dbManager"/>
+    <action shortcut="F5" name="Atualizar" setting="/shortcuts/mActionDraw"/>
+    <action shortcut="" name="Rugosidade…" setting="/shortcuts/mProcessingUserMenu_gdal:roughness"/>
+    <action shortcut="" name="Mover feições" setting="/shortcuts/mActionMoveFeature"/>
+    <action shortcut="" name="Attributes Export to CSV File" setting="/shortcuts/Attributes Export to CSV File"/>
+    <action shortcut="" name="Mover Mapa para Seleção" setting="/shortcuts/mActionPanToSelected"/>
+    <action shortcut="Ctrl+Shift+U" name="Mostrar Todas as Camadas" setting="/shortcuts/mActionShowAllLayers"/>
+    <action shortcut="" name="Adicionar Camada espacial do tipo SAP Hana..." setting="/shortcuts/mActionAddHanaLayer"/>
+    <action shortcut="" name="Polígonos para linhas…" setting="/shortcuts/mProcessingUserMenu_native:polygonstolines"/>
+    <action shortcut="" name="Opções" setting="/shortcuts/optionsAction"/>
+    <action shortcut="" name="settings" setting="/shortcuts/settings"/>
+    <action shortcut="" name="Atalhos de Teclado..." setting="/shortcuts/mActionConfigureShortcuts"/>
+    <action shortcut="" name="Excluir selecionado(s)" setting="/shortcuts/mActionDeleteSelected"/>
+    <action shortcut="" name="Separar Partes do(s) elemento(s)" setting="/shortcuts/Separar Partes do(s) elemento(s)"/>
+    <action shortcut="" name="Dividir uma camada vetorial…" setting="/shortcuts/mProcessingUserMenu_native:splitvectorlayer"/>
+    <action shortcut="" name="Perfil de Elevação" setting="/shortcuts/mActionElevationProfile"/>
+    <action shortcut="Ctrl+L" name="Gerenciador de fonte de dados" setting="/shortcuts/mActionDataSourceManager"/>
+    <action shortcut="" name="Criar Anotação do polígono" setting="/shortcuts/mActionAnotaçãodopolígono"/>
+    <action shortcut="F6" name="Abrir tabela de atributos" setting="/shortcuts/mActionOpenTable"/>
+    <action shortcut="" name="Mosaico…" setting="/shortcuts/mProcessingUserMenu_gdal:merge"/>
+    <action shortcut="Z" name="Send to Google Earth" setting="/shortcuts/Send to Google Earth"/>
+    <action shortcut="" name="Filtrar Legenda por Conteúdo do Mapa" setting="/shortcuts/Filtrar Legenda por Conteúdo do Mapa"/>
+    <action shortcut="" name="Animate Location" setting="/shortcuts/Animate Location"/>
+    <action shortcut="" name="Settings" setting="/shortcuts/latLonToolsSettings"/>
+    <action shortcut="" name=" Simular daltonismo por protanopia (sem vermelho)" setting="/shortcuts/mActionPreviewProtanope"/>
+    <action shortcut="" name="Coordenada(s) média(s)…" setting="/shortcuts/mProcessingUserMenu_native:meancoordinates"/>
+    <action shortcut="" name="Destacar etiquetas, diagramas e caixas de texto fixadas." setting="/shortcuts/mActionShowPinnedLabels"/>
+    <action shortcut="" name="Reverter…" setting="/shortcuts/mActionRevertProject"/>
+    <action shortcut="" name="Reprojetar camada…" setting="/shortcuts/mProcessingUserMenu_native:reprojectlayer"/>
+    <action shortcut="Ctrl+S" name="Salvar" setting="/shortcuts/mActionSaveProject"/>
+    <action shortcut="" name="Índice deslizante…" setting="/shortcuts/mProcessingUserMenu_gdal:tileindex"/>
+    <action shortcut="Ctrl+Alt+A" name="Desfazer seleção de feições em todas as camadas" setting="/shortcuts/mActionDeselectAll"/>
+    <action shortcut="Ctrl+F" name="Filtrar..." setting="/shortcuts/mActionLayerSubsetString"/>
+    <action shortcut="" name="Modificar Rótulo" setting="/shortcuts/mActionChangeLabelProperties"/>
+    <action shortcut="" name="Ferramenta Vértice (Camada Atual)" setting="/shortcuts/mActionVertexToolActiveLayer"/>
+    <action shortcut="" name="Diminuir o Contraste" setting="/shortcuts/mActionDecreaseContrast"/>
+    <action shortcut="" name="Trecho de corte cumulativo para todo o conjunto de dados" setting="/shortcuts/mActionFullCumulativeCutStretch"/>
+    <action shortcut="" name="Simular daltonismo por tritanopia (sem azul)" setting="/shortcuts/mActionPreviewTritanope"/>
+    <action shortcut="Ctrl+Shift+B" name="Mostrar Favoritos Espaciais" setting="/shortcuts/mActionShowBookmarks"/>
+    <action shortcut="" name="Reverse Geocode" setting="/shortcuts/Reverse Geocode"/>
+    <action shortcut="" name="Adicionar Camada WCS..." setting="/shortcuts/mActionAddWcsLayer"/>
+    <action shortcut="" name="Personalização da Interface..." setting="/shortcuts/mActionCustomization"/>
+    <action shortcut="" name="Show in External Map" setting="/shortcuts/latLonToolsExternalMap"/>
+    <action shortcut="" name="Documentação de API do C++" setting="/shortcuts/mActionHelpAPI"/>
+    <action shortcut="" name="Aumentar Gamma" setting="/shortcuts/mActionIncreaseGamma"/>
+    <action shortcut="" name="Diminuir o Brílho" setting="/shortcuts/mActionDecreaseBrightness"/>
+    <action shortcut="Ctrl+Alt+R" name="Resultados visualização" setting="/shortcuts/resultsViewer"/>
+    <action shortcut="" name="Associar atributos por localização…" setting="/shortcuts/mProcessingUserMenu_native:joinattributesbylocation"/>
+    <action shortcut="" name="Adicionar Camada GPX" setting="/shortcuts/mActionAddGpsLayer"/>
+    <action shortcut="" name="Gridify" setting="/shortcuts/Gridify"/>
+    <action shortcut="Ctrl+Alt+P" name="Terminal Python" setting="/shortcuts/mActionShowPythonDialog"/>
+    <action shortcut="" name="Deslocamento do símbolo de ponto" setting="/shortcuts/mActionOffsetPointSymbol"/>
+    <action shortcut="" name="Verificar a versão do QGIS" setting="/shortcuts/mActionCheckQgisVersion"/>
+    <action shortcut="" name="Controlador Temporal" setting="/shortcuts/mActionTemporalController"/>
+    <action shortcut="" name="Geocode from Street Layer" setting="/shortcuts/Geocode from Street Layer"/>
+    <action shortcut="" name="Pontos regulares…" setting="/shortcuts/mProcessingUserMenu_qgis:regularpoints"/>
+    <action shortcut="" name="Grade (Dados métricos)…" setting="/shortcuts/mProcessingUserMenu_gdal:griddatametrics"/>
+    <action shortcut="" name="Salvar como Arquivo de Definição de Camada..." setting="/shortcuts/mActionSaveLayerDefinition"/>
+    <action shortcut="" name="Exportar mapa para PDF..." setting="/shortcuts/mActionSaveMapAsPdf"/>
+    <action shortcut="" name="Eliminar polígonos selecionados…" setting="/shortcuts/mProcessingUserMenu_qgis:eliminateselectedpolygons"/>
+    <action shortcut="F1" name="Conteúdo da Ajuda" setting="/shortcuts/mActionHelpContents"/>
+    <action shortcut="" name="Add to Search" setting="/shortcuts/Add to Search"/>
+    <action shortcut="" name="Simular Monochrome" setting="/shortcuts/mActionPreviewModeMono"/>
+    <action shortcut="" name="Get WKT" setting="/shortcuts/Get WKT"/>
+    <action shortcut="" name="Mostrar Editor de Vértices" setting="/shortcuts/Mostrar Editor de Vértices"/>
+    <action shortcut="" name="Aproximar à(s) Camada(s)" setting="/shortcuts/mActionZoomToLayers"/>
+    <action shortcut="" name="temp" setting="/shortcuts/temp"/>
+    <action shortcut="" name="Feições através de polígono" setting="/shortcuts/mActionSelectPolygon"/>
+    <action shortcut="" name="Definir a escala de visibilidade da(s) camada(s)" setting="/shortcuts/mActionSetLayerScaleVisibility"/>
+    <action shortcut="" name="Contagem de pontos em polígono…" setting="/shortcuts/mProcessingUserMenu_native:countpointsinpolygon"/>
+    <action shortcut="" name="Documentação de API do PyQGIS" setting="/shortcuts/mActionHelpPyQgisAPI"/>
+    <action shortcut="" name="classification dock" setting="/shortcuts/classification dock"/>
+    <action shortcut="" name="Aumentar o Contraste" setting="/shortcuts/mActionIncreaseContrast"/>
+    <action shortcut="" name="Construir raster virtual…" setting="/shortcuts/mProcessingUserMenu_gdal:buildvirtualraster"/>
+    <action shortcut="" name="Informações do raster…" setting="/shortcuts/mProcessingUserMenu_gdal:gdalinfo"/>
+    <action shortcut="" name="Pontos aleatórios no interior dos polígonos…" setting="/shortcuts/mProcessingUserMenu_qgis:randompointsinsidepolygons"/>
+    <action shortcut="" name="Inverter linha" setting="/shortcuts/mActionReverseLine"/>
+    <action shortcut="" name="More Add Layer actions here" setting="/shortcuts/mActionAddLayerSeparator"/>
+    <action shortcut="" name="Sobre" setting="/shortcuts/mActionAbout"/>
+    <action shortcut="" name="Normal" setting="/shortcuts/mActionPreviewModeOff"/>
+    <action shortcut="" name="Coletar geometrias…" setting="/shortcuts/mProcessingUserMenu_native:collect"/>
+    <action shortcut="" name="Adicionar camada MS SQL Server" setting="/shortcuts/mActionAddMssqlLayer"/>
+    <action shortcut="" name="Interseção …" setting="/shortcuts/mProcessingUserMenu_native:intersection"/>
+    <action shortcut="Ctrl+Shift+J" name="Área" setting="/shortcuts/mActionMeasureArea"/>
+    <action shortcut="" name="Esconder camadas selecionadas" setting="/shortcuts/mActionHideSelectedLayers"/>
+    <action shortcut="" name="Mostrar/ocultar rótulos e diagramas" setting="/shortcuts/mActionShowHideLabels"/>
+    <action shortcut="Ctrl+Shift+L" name="Adicionar camada SpatialLite..." setting="/shortcuts/mActionAddSpatiaLiteLayer"/>
+    <action shortcut="" name="Exportar projeto para DXF..." setting="/shortcuts/mActionDxfExport"/>
+    <action shortcut="" name="Densificar por contagem…" setting="/shortcuts/mProcessingUserMenu_native:densifygeometries"/>
+    <action shortcut=";" name="Trecho de corte cumulativo local" setting="/shortcuts/mActionLocalCumulativeCutStretch"/>
+    <action shortcut="" name="Mostrar camadas selecionadas" setting="/shortcuts/mActionShowSelectedLayers"/>
+    <action shortcut="" name="Inverter seleção da feição" setting="/shortcuts/mActionInvertSelection"/>
+    <action shortcut="" name="Precisa de Suporte Comercial?" setting="/shortcuts/mActionNeedSupport"/>
+    <action shortcut="" name="Spatial Join" setting="/shortcuts/Spatial Join"/>
+    <action shortcut="E" name="Alternar Edição" setting="/shortcuts/mActionToggleEditing"/>
+    <action shortcut="" name="Excluir Anel" setting="/shortcuts/mActionDeleteRing"/>
+    <action shortcut="" name="Índice de Posição Topográfica (TPI)…" setting="/shortcuts/mProcessingUserMenu_gdal:tpitopographicpositionindex"/>
+    <action shortcut="" name="Selecionar todas as feições" setting="/shortcuts/mActionSelectAll"/>
+    <action shortcut="" name="About" setting="/shortcuts/About"/>
+    <action shortcut="" name="Interseções de linhas…" setting="/shortcuts/mProcessingUserMenu_native:lineintersections"/>
+    <action shortcut="" name="Abrir Tabela de Atributos (Editadas e Novas Feições)" setting="/shortcuts/mActionOpenTableEdited"/>
+    <action shortcut="" name="Animate Sequence" setting="/shortcuts/Animate Sequence"/>
+    <action shortcut="" name="Modificar Annotations" setting="/shortcuts/mActionModifyAnnotation"/>
+    <action shortcut="" name="Anotação de formulário" setting="/shortcuts/mActionFormAnnotation"/>
+    <action shortcut="" name="Salvar para todas as camadas" setting="/shortcuts/mActionSaveAllEdits"/>
+    <action shortcut="" name="Definir SRC em UTM" setting="/shortcuts/DefineUTM"/>
+    <action shortcut="" name="Alternar Camadas Selecionadas" setting="/shortcuts/mActionToggleSelectedLayers"/>
+    <action shortcut="" name="Adicionar pontos para camada em nuvem..." setting="/shortcuts/mActionAddPointCloudLayer"/>
+    <action shortcut="Ctrl+Shift+O" name="Adicionar Camada Oracle Spatial..." setting="/shortcuts/mActionAddOracleLayer"/>
+    <action shortcut="" name="Deslocar Mapa" setting="/shortcuts/mActionPan"/>
+    <action shortcut="" name="Change Projection" setting="/shortcuts/Change Projection"/>
+    <action shortcut="" name="Mudar para Visibilidade do Painel" setting="/shortcuts/mActionTogglePanelsVisibility"/>
+    <action shortcut="Ctrl+Shift+N" name="Nova Camada GeoPackage..." setting="/shortcuts/mActionNewGeoPackageLayer"/>
+    <action shortcut="" name="Colar estilo na camada" setting="/shortcuts/ImportXYZ"/>
+    <action shortcut="" name="Seleção aleatória dentro de subconjuntos…" setting="/shortcuts/mProcessingUserMenu_qgis:randomselectionwithinsubsets"/>
+    <action shortcut="" name="Escalonar feição(ões)" setting="/shortcuts/mActionScaleFeature"/>
+    <action shortcut="" name="Nova Camada Virtual..." setting="/shortcuts/mActionNewVirtualLayer"/>
+    <action shortcut="" name="Exportar mapa para Imagem..." setting="/shortcuts/mActionSaveMapAsImage"/>
+    <action shortcut="" name="Editar Feições In-Place" setting="/shortcuts/editInPlaceFeatures"/>
+    <action shortcut="" name="Simular daltonismo por deuteranopia (sem verde)" setting="/shortcuts/mActionPreviewDeuteranope"/>
+    <action shortcut="" name="Matriz de distância…" setting="/shortcuts/mProcessingUserMenu_qgis:distancematrix"/>
+    <action shortcut="" name="Mostrar Gerenciador de Favoritos Espaciais" setting="/shortcuts/mActionShowBookmarkManager"/>
+    <action shortcut="" name="Rótulo título..." setting="/shortcuts/mActionDecorationTitle"/>
+    <action shortcut="" name="Copiar camada" setting="/shortcuts/mActionCopyLayer"/>
+    <action shortcut="" name="Aparar/Extender feição" setting="/shortcuts/mActionTrimExtendFeature"/>
+    <action shortcut="" name="Soma comprimentos de linha…" setting="/shortcuts/mProcessingUserMenu_native:sumlinelengths"/>
+    <action shortcut="Ctrl+B" name="Novo Favorito Espacial..." setting="/shortcuts/mActionNewBookmark"/>
+    <action shortcut="Ctrl+Q" name="Sair do QGIS" setting="/shortcuts/mActionExit"/>
+    <action shortcut="" name="Salvar para a(s) camada(s) selecionada(s)" setting="/shortcuts/mActionSaveEdits"/>
+    <action shortcut="" name="Mover Etiqueta, Diagrama ou caixa de texto." setting="/shortcuts/mActionMoveLabel"/>
+    <action shortcut="" name="Copiar estilo da camada" setting="/shortcuts/ImportXYZ"/>
+    <action shortcut="" name="Multi-location Zoom" setting="/shortcuts/latLonToolsMultiZoom"/>
+    <action shortcut="" name="Digitalizar Feição" setting="/shortcuts/mActionDigitizeShape"/>
+    <action shortcut="" name="Última visualização" setting="/shortcuts/mActionZoomLast"/>
+    <action shortcut="" name="Cancelar para todas as camadas" setting="/shortcuts/mActionCancelAllEdits"/>
+    <action shortcut="" name="Geometry Export to CSV File" setting="/shortcuts/Geometry Export to CSV File"/>
+    <action shortcut="" name="Sign-in" setting="/shortcuts/Sign-in"/>
+    <action shortcut="Ctrl+Shift+Z" name="Refazer" setting="/shortcuts/mActionRedo"/>
+    <action shortcut="" name="Adicionar parte" setting="/shortcuts/mActionAddPart"/>
+    <action shortcut="" name="Add WFS / OGC API - Features Layer…" setting="/shortcuts/mActionAddWfsLayer"/>
+    <action shortcut="" name="Extensão do Histograma Local" setting="/shortcuts/mActionLocalHistogramStretch"/>
+    <action shortcut="" name="Gerir as Vistas de Mapas 3D" setting="/shortcuts/mActionManage3DMapViews"/>
+    <action shortcut="Ctrl+Shift+A" name="Desmarcar feições da camada ativa atual" setting="/shortcuts/mActionDeselectActiveLayer"/>
+    <action shortcut="" name="Alternar aderência" setting="/shortcuts/EnableSnappingAction"/>
+    <action shortcut="" name="Duplicar camada(s)" setting="/shortcuts/mActionDuplicateLayer"/>
+    <action shortcut="" name="Preencher Anel" setting="/shortcuts/mActionFillRing"/>
+    <action shortcut="" name="Pontos aleatórios nas linhas…" setting="/shortcuts/mProcessingUserMenu_native:randompointsonlines"/>
+    <action shortcut="" name="Geocode CSV with Web Service" setting="/shortcuts/Geocode CSV with Web Service"/>
+    <action shortcut="" name="Notação HTML" setting="/shortcuts/mActionHtmlAnnotation"/>
+    <action shortcut="" name="Definir projeção…" setting="/shortcuts/mProcessingUserMenu_gdal:assignprojection"/>
+    <action shortcut="" name="Rotular" setting="/shortcuts/mActionLabeling"/>
+    <action shortcut="" name="Criar Anotação do marcador" setting="/shortcuts/mActionAnotaçãodomarcador"/>
+    <action shortcut="" name="Converter ( converter o formato )…" setting="/shortcuts/mProcessingUserMenu_gdal:translate"/>
+    <action shortcut="Ctrl+Z" name="Desfazer" setting="/shortcuts/mActionUndo"/>
+    <action shortcut="" name="Calculadora de malha..." setting="/shortcuts/mActionShowMeshCalculator"/>
+    <action shortcut="" name="Pontos aleatórios em polígonos…" setting="/shortcuts/mProcessingUserMenu_native:randompointsinpolygons"/>
+    <action shortcut="" name="Índice de Rugosidade do Terreno (TRI)…" setting="/shortcuts/mProcessingUserMenu_gdal:triterrainruggednessindex"/>
+    <action shortcut="" name="Zoom To Coordinate" setting="/shortcuts/latLonToolsZoom"/>
+    <action shortcut="" name="Reprojetar coordenadas…" setting="/shortcuts/mProcessingUserMenu_gdal:warpreproject"/>
+    <action shortcut="" name="Grade (Média móvel)…" setting="/shortcuts/mProcessingUserMenu_gdal:gridaverage"/>
+    <action shortcut="" name="Importar camadas de DWG/DXF..." setting="/shortcuts/mActionDwgImport"/>
+    <action shortcut="" name="Simplificar…" setting="/shortcuts/mProcessingUserMenu_native:simplifygeometries"/>
+    <action shortcut="" name="Seleção aleatória…" setting="/shortcuts/mProcessingUserMenu_qgis:randomselection"/>
+    <action shortcut="" name="Extrair vértices…" setting="/shortcuts/mProcessingUserMenu_native:extractvertices"/>
+    <action shortcut="5" name="Adicionar anel" setting="/shortcuts/mActionAddRing"/>
+    <action shortcut="Ctrl+Shift+F" name="Ver tudo" setting="/shortcuts/mActionZoomFullExtent"/>
+    <action shortcut="" name="Nova Camada de Rascunho Temporária..." setting="/shortcuts/mActionNewMemoryLayer"/>
+    <action shortcut="" name="Settings" setting="/shortcuts/Settings"/>
+    <action shortcut="" name="Ocultar tudo da visão geral" setting="/shortcuts/mActionRemoveAllFromOverview"/>
+    <action shortcut="" name="Crivo…" setting="/shortcuts/mProcessingUserMenu_gdal:sieve"/>
+    <action shortcut="" name="About QMS" setting="/shortcuts/About QMS"/>
+    <action shortcut="" name="Expandir tudo" setting="/shortcuts/Expandir tudo"/>
+    <action shortcut="" name="Nova Camada GPX..." setting="/shortcuts/mActionNewGpxLayer"/>
+    <action shortcut="" name="PCT para RGB…" setting="/shortcuts/mProcessingUserMenu_gdal:pcttorgb"/>
+    <action shortcut="Ctrl+Shift+V" name="Adicionar Camada Vetorial..." setting="/shortcuts/mActionAddOgrLayer"/>
+    <action shortcut="" name="Selecione à distância…" setting="/shortcuts/mProcessingUserMenu_native:selectwithindistance"/>
+    <action shortcut="" name="Create Grid Layer" setting="/shortcuts/Create Grid Layer"/>
+    <action shortcut="" name="Reverter para todas as camadas" setting="/shortcuts/mActionRollbackAllEdits"/>
+    <action shortcut="" name="Adicionar Camadas de Servidor Arc RIS ..." setting="/shortcuts/mActionAddAfsLayer"/>
+    <action shortcut="" name="dzetsaka classification dock" setting="/shortcuts/dzetsaka classification dock"/>
+    <action shortcut="" name="Declividade…" setting="/shortcuts/mProcessingUserMenu_gdal:slope"/>
+    <action shortcut="" name="Ação de feição" setting="/shortcuts/mActionFeatureAction"/>
+    <action shortcut="" name="Propriedades da Camada Annotation principal..." setting="/shortcuts/mMainAnnotationLayerProperties"/>
+    <action shortcut="" name="Ângulo" setting="/shortcuts/mActionMeasureAngle"/>
+    <action shortcut="" name="Adicionar a partir de Arquivo de Definição de Camada..." setting="/shortcuts/mActionAddLayerDefinition"/>
+    <action shortcut="" name="Mesclar feições selecionadas" setting="/shortcuts/mActionMergeFeatures"/>
+    <action shortcut="" name="Search / Select" setting="/shortcuts/Search / Select"/>
+    <action shortcut="" name="Criar índices espaciais …" setting="/shortcuts/mProcessingUserMenu_native:createspatialindex"/>
+    <action shortcut="" name="Envolva-se" setting="/shortcuts/mActionGetInvolved"/>
+    <action shortcut="" name=" Simular daltonismo por acromatopsia (escala de cinza)" setting="/shortcuts/mActionPreviewModeGrayscale"/>
+    <action shortcut="" name="Attributes Join from CSV File" setting="/shortcuts/Attributes Join from CSV File"/>
+    <action shortcut="" name="Anotação de texto" setting="/shortcuts/mActionTextAnnotation"/>
+    <action shortcut="" name="Fixar/desafixar rótulos e diagramas" setting="/shortcuts/mActionPinLabels"/>
+    <action shortcut="" name="Opções de aderência…" setting="/shortcuts/mActionSnappingOptions"/>
+    <action shortcut="" name="AutoAderência" setting="/shortcuts/SelfSnappingAction"/>
+    <action shortcut="Ctrl+Shift+S" name="Salvar Como…" setting="/shortcuts/mActionSaveProjectAs"/>
+    <action shortcut="" name="Reselecionar Feições" setting="/shortcuts/mActionReselect"/>
+    <action shortcut="" name="Nova camada de malha de pontos..." setting="/shortcuts/mActionNewMeshLayer"/>
+    <action shortcut="" name="Campo para estatística básica…" setting="/shortcuts/mProcessingUserMenu_qgis:basicstatisticsforfields"/>
+    <action shortcut="" name="Copiar feições" setting="/shortcuts/mActionCopyFeatures"/>
+    <action shortcut="" name="Mesclar atributos de feições selecionadas" setting="/shortcuts/mActionMergeFeatureAttributes"/>
+    <action shortcut="" name="Coordinate Conversion" setting="/shortcuts/latLonToolsCoordinateConversion"/>
+    <action shortcut="" name="Diminuir Gamma" setting="/shortcuts/mActionDecreaseGamma"/>
+    <action shortcut="2" name="Copy/Display Coordinate" setting="/shortcuts/latLonToolsCopy"/>
+    <action shortcut="" name="Rótulo de Copyright…" setting="/shortcuts/mActionDecorationCopyright"/>
+    <action shortcut="" name="Geometry Import from CSV File" setting="/shortcuts/Geometry Import from CSV File"/>
+    <action shortcut="" name="Aproximar à Camada" setting="/shortcuts/mActionZoomToLayer"/>
+    <action shortcut="" name="Lat Lon Digitize" setting="/shortcuts/latLonToolsDigitize"/>
+    <action shortcut="" name="welcome message" setting="/shortcuts/welcome message"/>
+    <action shortcut="" name="Proximidade (distância raster)…" setting="/shortcuts/mProcessingUserMenu_gdal:proximity"/>
+    <action shortcut="" name="Novo Relatório…" setting="/shortcuts/mActionNewReport"/>
+    <action shortcut="" name="Dissolver…" setting="/shortcuts/mProcessingUserMenu_native:dissolve"/>
+    <action shortcut="3" name="Adicionar Polígono" setting="/shortcuts/mActionAddFeature"/>
+    <action shortcut="" name="Opções..." setting="/shortcuts/mActionOptions"/>
+    <action shortcut="" name="Nova Camada Annotation" setting="/shortcuts/mActionCreateAnnotationLayer"/>
+    <action shortcut="T" name="Habilitar traçar" setting="/shortcuts/EnableTracingAction"/>
+    <action shortcut="" name="Adicionar camada de malha…" setting="/shortcuts/mActionAddMeshLayer"/>
+    <action shortcut="F3" name="Selecionar Feições por Valor..." setting="/shortcuts/mActionSelectByForm"/>
+    <action shortcut="Ctrl+Shift+D" name="Adicionar Camada PostGIS..." setting="/shortcuts/mActionAddPgLayer"/>
+    <action shortcut="" name="Dividir Partes" setting="/shortcuts/mActionSplitParts"/>
+    <action shortcut="" name="Excluir Parte" setting="/shortcuts/mActionDeletePart"/>
+    <action shortcut="" name="Centroides…" setting="/shortcuts/mProcessingUserMenu_native:centroids"/>
+    <action shortcut="Ctrl+Shift+T" name="Adicionar Camada de Texto Delimitado..." setting="/shortcuts/mActionAddDelimitedText"/>
+    <action shortcut="" name="Merge Layers" setting="/shortcuts/Merge Layers"/>
+    <action shortcut="" name="Adicionar atributos de geometria…" setting="/shortcuts/mProcessingUserMenu_qgis:exportaddgeometrycolumns"/>
+    <action shortcut="Ctrl+Shift+G" name="Digitalizar com curva" setting="/shortcuts/mActionDigitizeWithCurve"/>
+    <action shortcut="" name="Recortar Feições" setting="/shortcuts/mActionCutFeatures"/>
+    <action shortcut="" name="Voronoi Diagram" setting="/shortcuts/Voronoi Diagram"/>
+    <action shortcut="Ctrl+J" name="Aproximar à Seleção" setting="/shortcuts/mActionZoomToSelected"/>
+    <action shortcut="" name="Nova Camada Shapefile..." setting="/shortcuts/mActionNewVectorLayer"/>
+    <action shortcut="" name="Construir visões gerais (pirâmides)…" setting="/shortcuts/mProcessingUserMenu_gdal:overviews"/>
+    <action shortcut="Ctrl+Shift+P" name="Propriedades..." setting="/shortcuts/mActionProjectProperties"/>
+    <action shortcut="" name="Selecionar por localização…" setting="/shortcuts/mProcessingUserMenu_native:selectbylocation"/>
+    <action shortcut="" name="Aderência na Intersecção" setting="/shortcuts/IntersectionSnappingAction"/>
+    <action shortcut="Ctrl+Alt++" name="Aproximar" setting="/shortcuts/mActionZoomIn"/>
+    <action shortcut="" name="Set proper scale" setting="/shortcuts/Set proper scale"/>
+    <action shortcut="" name="Convert Geometry Type" setting="/shortcuts/Convert Geometry Type"/>
+    <action shortcut="" name="Resumo estatístico" setting="/shortcuts/mActionStatisticalSummary"/>
+    <action shortcut="" name="Zoom para Resolução Nativa (100%)" setting="/shortcuts/mActionZoomActualSize"/>
+    <action shortcut="Ctrl+Alt+V" name="Camada de Rascunho Temporária..." setting="/shortcuts/mActionPasteAsNewMemoryVector"/>
+    <action shortcut="" name="Selecionar por localização" setting="/shortcuts/mProcessingAlg_native:selectbylocation"/>
+    <action shortcut="" name="Contorno…" setting="/shortcuts/mProcessingUserMenu_gdal:contour"/>
+    <action shortcut="" name="Curva de deslocamento" setting="/shortcuts/mActionOffsetCurve"/>
+    <action shortcut="" name="Mesclar camadas vetoriais…" setting="/shortcuts/mProcessingUserMenu_native:mergevectorlayers"/>
+    <action shortcut="" name="Feições através de raio" setting="/shortcuts/mActionSelectRadius"/>
+    <action shortcut="" name="Copiar e mover Feição(ões)" setting="/shortcuts/mActionMoveFeatureCopy"/>
+    <action shortcut="" name="Help" setting="/shortcuts/Help"/>
+    <action shortcut="" name="Envoltória convexa…" setting="/shortcuts/mProcessingUserMenu_native:convexhull"/>
+    <action shortcut="" name="Rotacionar Rótulo" setting="/shortcuts/mActionRotateLabel"/>
+    <action shortcut="Ctrl+N" name="Novo" setting="/shortcuts/mActionNewProject"/>
+    <action shortcut="S" name="Salvar edições na camada" setting="/shortcuts/mActionSaveLayerEdits"/>
+    <action shortcut="Ctrl+Alt+H" name="Histórico..." setting="/shortcuts/historyAction"/>
+    <action shortcut="" name="Verificar a validade…" setting="/shortcuts/mProcessingUserMenu_qgis:checkvalidity"/>
+    <action shortcut="" name="Float to Text" setting="/shortcuts/Float to Text"/>
+    <action shortcut="" name="Completa Ampliação do Histograma" setting="/shortcuts/mActionFullHistogramStretch"/>
+    <action shortcut="" name="Conversions" setting="/shortcuts/Conversions"/>
+    <action shortcut="" name="Open Config" setting="/shortcuts/Open Config"/>
+    <action shortcut="F" name="Feição(s)" setting="/shortcuts/mActionSelectFeatures"/>
+    <action shortcut="" name="Alternar Camadas Independentemente Selecionadas" setting="/shortcuts/mActionToggleSelectedLayersIndependently"/>
+    <action shortcut="" name="União…" setting="/shortcuts/mProcessingUserMenu_native:union"/>
+    <action shortcut="Ctrl+Alt+T" name="Caixa de ferramentas" setting="/shortcuts/toolboxAction"/>
+    <action shortcut="" name="Rosa dos ventos" setting="/shortcuts/mActionDecorationNorthArrow"/>
+    <action shortcut="" name="Simplificar feições" setting="/shortcuts/mActionSimplifyFeature"/>
+    <action shortcut="" name="Tutoriais" setting="/shortcuts/Tutorials"/>
+    <action shortcut="" name="Lista valores únicos…" setting="/shortcuts/mProcessingUserMenu_qgis:listuniquevalues"/>
+    <action shortcut="" name="Recortar raster pela extensão…" setting="/shortcuts/mProcessingUserMenu_gdal:cliprasterbyextent"/>
+    <action shortcut="" name="Recortar raster pela camada de máscara…" setting="/shortcuts/mProcessingUserMenu_gdal:cliprasterbymasklayer"/>
+    <action shortcut="6" name="Remodelar feições" setting="/shortcuts/mActionReshapeFeatures"/>
+    <action shortcut="Ctrl+Shift+C" name="Definir SRC da(s) Camada(s)" setting="/shortcuts/mActionSetLayerCRS"/>
+    <action shortcut="" name="Grade (Vizinho mais próximo)…" setting="/shortcuts/mProcessingUserMenu_gdal:gridnearestneighbor"/>
+    <action shortcut="Ctrl+Alt+[" name="Editar feição anterior na tabela de atributos" setting="/shortcuts/mAttributeTablePreviousEditedFeature"/>
+    <action shortcut="Ctrl+Alt+]" name="Editar próximo recurso na tabela de atributos" setting="/shortcuts/mAttributeTableNextEditedFeature"/>
+    <action shortcut="Ctrl+-" name="Reduzir o zoom da tela" setting="/shortcuts/ZoomOutOfCanvas"/>
+    <action shortcut="Ctrl+5" name="Mostrar Painel Desfazer/Refazer" setting="/shortcuts/ShowUndoPanel"/>
+    <action shortcut="Ctrl+0" name="Mostrar Informações GPS" setting="/shortcuts/ShowGpsPanel"/>
+    <action shortcut="Ctrl+1" name="Mostrar Camadas" setting="/shortcuts/ShowLayersPanel"/>
+    <action shortcut="Ctrl+Alt+." name="Deslocar a curva da ferramenta de perfil para a direita" setting="/shortcuts/mProfileToolNudgeRight"/>
+    <action shortcut="Ctrl+8" name="Mostrar painel de visão geral" setting="/shortcuts/ShowOverviewPanel"/>
+    <action shortcut="Ctrl+K" name="Localizador de trigger" setting="/shortcuts/Locator"/>
+    <action shortcut="Ctrl+Alt+=" name="Aproximar (secundário)" setting="/shortcuts/ZoomIn2"/>
+    <action shortcut="Ctrl+Shift+." name="" setting="/shortcuts/ToggleTracing"/>
+    <action shortcut="Ctrl+Alt+}" name="Editar o último recurso na tabela de atributos" setting="/shortcuts/mAttributeTableLastEditedFeature"/>
+    <action shortcut="Ctrl+3" name="Mostrar Estilo" setting="/shortcuts/ShowLayerStylingPanel"/>
+    <action shortcut="Ctrl++" name="Ampliar para a tela" setting="/shortcuts/ZoomInToCanvas"/>
+    <action shortcut="Ctrl+9" name="Mostrar Ordem das Camadas" setting="/shortcuts/ShowLayerOrderPanel"/>
+    <action shortcut="Ctrl+6" name="Mostrar Estatística" setting="/shortcuts/ShowStatisticsPanel"/>
+    <action shortcut="F12" name="Mostrar Ferramentas de Depuração/Desenvolvimento" setting="/shortcuts/ShowDevToolsPanel"/>
+    <action shortcut="Ctrl+4" name="Exibir Painel de Vetorização Avançada" setting="/shortcuts/ShowAdvancedDigitizingPanel"/>
+    <action shortcut="Ctrl+Alt+{" name="Editar o primeiro feição na tabela de atributos" setting="/shortcuts/mAttributeTableFirstEditedFeature"/>
+    <action shortcut="Ctrl+2" name="Mostrar Painel de Navegação" setting="/shortcuts/ShowBrowserPanel"/>
+    <action shortcut="Ctrl+7" name="Mostrar Favoritos" setting="/shortcuts/ShowBookmarksPanel"/>
+    <action shortcut="Ctrl+Alt+," name="Deslocar a curva da ferramenta de perfil para a esquerda" setting="/shortcuts/mProfileToolNudgeLeft"/>
+    <action shortcut="Ctrl+=" name="Ampliar para a tela (secundária)" setting="/shortcuts/ZoomInToCanvas2"/>
+</qgsshortcuts>
